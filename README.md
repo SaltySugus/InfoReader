@@ -1,0 +1,2 @@
+# 64Reader
+本项目参考自Bilibili网站up主“会飞的阿卡林”的视频以及他的github项目AIDA64Reader
