@@ -27,8 +27,8 @@ void refresh1()
     u8g2.drawStr(105, 30, "%");
     u8g2.drawStr(0, 45, "CPU Freq:");
     u8g2.drawStr(73, 45, scpuclk);
-    //u8g2.drawStr(105, 45, "MHz");
-    u8g2.drawStr(105, 45, "GHz");
+    u8g2.drawStr(105, 45, "MHz");
+//    u8g2.drawStr(105, 45, "GHz");
     u8g2.drawStr(0, 60, "CPU Fan:");
     u8g2.drawStr(73, 60, fcpu);
     u8g2.drawStr(105, 60, "RPM");
