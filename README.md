@@ -4,4 +4,4 @@
 
 # 使用Python代替C#进行上位机的编写，并对下位机进行一些修改 
 
-dist文件夹中为PyHost.py的可执行文件
+process/dist 文件夹中为PyHost.py的可执行文件
